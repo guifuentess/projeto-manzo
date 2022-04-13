@@ -38,3 +38,54 @@ img {
     padding-bottom: 15px;
     padding-top: 10px;
 }
+
+main {
+    margin: auto;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+main h1 {
+    font-size: 2em;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.sobre > p {
+    font-weight: normal;
+    font-size: 1.2em;
+    text-indent: 25px;
+    text-align: justify;
+    line-height: 1.4em;
+}
+
+.atendimento {
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 30px;
+}
+
+.atendimento > p {
+    line-height: 2em;
+    font-size: 1.2em;
+}
+
+.loc {
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
+
+div.loc2{
+    height: 200px;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.loc2 > p {
+    font-size: 1.2em;
+}
+
+aside {
+    text-align: center;
+}
