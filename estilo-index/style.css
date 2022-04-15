@@ -45,47 +45,30 @@ main {
     padding: 20px;
 }
 
-main h1 {
-    font-size: 2em;
-    padding-top: 10px;
-    padding-bottom: 10px;
+article h1 {
+    font-size: 2.3em;
 }
 
-.sobre > p {
-    font-weight: normal;
-    font-size: 1.2em;
-    text-indent: 25px;
+article p {
+    margin: 10px 0px;
     text-align: justify;
-    line-height: 1.4em;
+    text-indent: 30px;
+    font-size: 1em;
+    line-height: 1.5em;
 }
 
-.atendimento {
+aside.form {
     text-align: center;
-    padding: 20px;
-    padding-bottom: 30px;
+    padding: 30px;
+    padding-top: 40px;
+    margin: auto;
 }
 
-.atendimento > p {
-    line-height: 2em;
-    font-size: 1.2em;
-}
-
-.loc {
-    text-align: center;
-    padding: 20px;
-    margin: 10px;
-}
-
-div.loc2{
-    height: 200px;
-    border: 1px solid black;
-    margin: 10px;
-}
-
-.loc2 > p {
-    font-size: 1.2em;
-}
-
-aside {
-    text-align: center;
+footer {
+    color: white;
+    background-color: rgb(36, 36, 36);
+    font-weight: bolder;
+    text-decoration: none;
+    padding: 25px;
+    text-indent: 30px;
 }
